@@ -7,4 +7,7 @@ public abstract class TestClass {
 
 	}
 
+	public void hayHello() {
+		System.out.println("From sayhello Method()");
+	}
 }
